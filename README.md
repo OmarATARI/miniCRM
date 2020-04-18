@@ -20,7 +20,6 @@ The App should be App :
 
 visit client : http://localhost:3000
 
-visit server : http://localhost:8080
 
 To check the status :
 
