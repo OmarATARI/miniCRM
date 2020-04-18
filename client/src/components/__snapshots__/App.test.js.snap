@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly enzyme 1`] = `
+<div>
+  <div
+    className="navbar-fixed"
+  >
+    <nav
+      className="blue lighten-2"
+    >
+      <div
+        className="nav-wrapper"
+      >
+        <a
+          className="brand-logo center"
+          href="/"
+        >
+          Contacts
+        </a>
+      </div>
+    </nav>
+  </div>
+  <div>
+    <Form
+      updateData={[Function]}
+    />
+    <Grid
+      deleteData={[Function]}
+      items={Array []}
+    />
+  </div>
+</div>
+`;
